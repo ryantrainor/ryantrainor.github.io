@@ -23,7 +23,8 @@ href="http://www.nasa.gov/mission_pages/hubble/main/index.html">Hubble
 Space Telescope</a>. I was also part of the team that
 built and commissioned MOSFIRE.
 
-==Understanding Lyman-alpha Emission
+Understanding Lyman-alpha Emission
+===
 
 Several of  my projects focus on understanding a specific type of light called Lyman-alpha (Lya)
 emission. As described in the right sidebar, Lya emission is emitted by excited hydrogen gas, and
@@ -37,7 +38,8 @@ in order to predict the total efficiency with which these photons are detected i
 measurements of galaxies.
 <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887...85T/abstract'> (see paper)</a>
   
-==Properties of "baby" galaxies
+Properties of "baby" galaxies
+===
 
 I am currently studying young
 galaxies called Lyman-alpha emitters
@@ -84,8 +86,8 @@ have been possible without the
 new instrument MOSFIRE
 described below.<a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'> (see paper)</a>
 
-==Host Halos of QSOs
-					
+Host Halos of QSOs
+===			
 Hyperluminous QSOs are extremely bright and exceedingly rare; these objects are brighter than 10^14 solar luminosities, and there are likely only a few dozen of them in the observable universe.
 
 By studying the spatial and velocity distribution of galaxies near the QSOs, we were able to determine that these QSOs sit in dark-matter halos of similar masses to those hosting lower-luminosity AGN and typical star-forming galaxies at these redshifts. In addition, we found that the QSOs are associated with high local densities of galaxies, which suggests that recent galaxy mergers are more important than halo mass in producing efficient (ie. hyperluminous) black-hole accretion. <a href='https://ui.adsabs.harvard.edu/abs/2012ApJ...752...39T/abstract'>(see paper)</a>
@@ -127,8 +129,9 @@ that may tell us about their kinematics and the effects of radiative
 transfer. With continuing MOSFIRE observations, we will further probe
 the physical properties of these objects.
 
-==MOSFIRE
-<img src="images/mosfire-logo.jpeg">
+MOSFIRE
+===
+<img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
   As a member of the MOSFIRE
 instrument team, I helped
 calibrate and commission the
