@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ryan Trainor / Astronomer @ F&M"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.
+My research is centered on the evolution of galaxies in the early Universe. In particular, I seek to understand
+"feedback" in galaxy formation: how the lives and
+deaths of stars shape the evolution of
+galaxies. My work includes making measurements of
+the production of elements in forming galaxies, the
+explosions that blow out gas and halt star-formation,
+the escape of ionizing photons from galaxies, and the
+effects of some of the brightest quasars (aka,
+"active" black holes) on the gas and galaxies around
+them. Exciting stuff!
+      
+How can a black hole be bright? What on Earth (or rather, *not* on
+Earth) is a redshift? Find answers to these
+questions (and more!) on my [Research](research) page!
 
+I am also passionate about physics & astronomy teaching and outreach.
+I always enjoy speaking
+with students (and students-at-heart), so feel free to contact me using the links on the right side bar if you're looking
+for a visitor for your school.
+      
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
