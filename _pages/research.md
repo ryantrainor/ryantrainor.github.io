@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="https://crosstrainor.github.io/images/keck-250.jpeg">
+
 I'm studying the evolution of galaxies and
 quasars (also known as QSOs) at the peak epochs of star formation and
 black hole accretion (2 < <i>z</i> < 3). I
@@ -27,7 +29,7 @@ Understanding Lyman-alpha Emission
 ===
 
 Several of  my projects focus on understanding a specific type of light called Lyman-alpha (Lya)
-emission. As described in the right sidebar, Lya emission is emitted by excited hydrogen gas, and
+emission. Lya emission is emitted by excited hydrogen gas, and
 excited hydrogen tends to sit near newly-formed stars and "active" black holes in galaxies. Using 
 this light is therefore a good way to see where stars and black holes are forming in the Universe.
 
@@ -56,7 +58,7 @@ heavy elements within the galaxies as
 well as driving gas and
 ultraviolet photons out of the galaxies.
 
-We recently published a paper
+We  published a paper
 showing that these faint,
 young LAE galaxies are able to
 produce outflows that drive
@@ -69,7 +71,7 @@ observations show that galaxy
 feedback works differently at
 different galaxy mass scales.<a href='https://ui.adsabs.harvard.edu/abs/2015ApJ...809...89T/abstract'> (see paper)</a>
 
-More recently, we published another
+We also published another
 paper demonstrating that 
 LAEs have extreme properties
 that suggest the presence of
