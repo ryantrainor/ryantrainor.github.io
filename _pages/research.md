@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.png"><br>
+	<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.png"><br>
+<img src="https://crosstrainor.github.io/images/tel-ground-400.jpeg"><img src="https://crosstrainor.github.io/images/tel-space-400.jpeg"><br>
 *Images of Keck Telescopes and Magellan Clay Telescope &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA*
 
 My students and I are studying the evolution of galaxies and
@@ -38,8 +39,7 @@ This Lya light is also complicated, however, because it is scattered by the hydr
 as it tries to get out. In one of our recent papers, we conducted a careful analysis of different
 methods for estimating how many Lya photons were created in galaxies and how many of them escape
 in order to predict the total efficiency with which these photons are detected in our 
-measurements of galaxies.
-<a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887...85T/abstract'> (see paper)</a>
+measurements of galaxies. <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887...85T/abstract'>(see paper)</a>
   
 Properties of "baby" galaxies
 ===
@@ -70,7 +70,7 @@ produced by brighter, more
 massive galaxies. These
 observations show that galaxy
 feedback works differently at
-different galaxy mass scales.<a href='https://ui.adsabs.harvard.edu/abs/2015ApJ...809...89T/abstract'> (see paper)</a>
+different galaxy mass scales. <a href='https://ui.adsabs.harvard.edu/abs/2015ApJ...809...89T/abstract'>(see paper)</a>
 
 We also published another
 paper demonstrating that 
@@ -87,7 +87,7 @@ by new models of stellar
 evolution. This work would not
 have been possible without the
 new instrument MOSFIRE
-described below.<a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'> (see paper)</a>
+described below. <a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'>(see paper)</a>
 
 Host Halos of QSOs
 ===			
