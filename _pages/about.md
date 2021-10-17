@@ -29,5 +29,5 @@ I always enjoy speaking
 with students (and students-at-heart), so feel free to contact me using the links on the right side bar if you're looking
 for a visitor for your school.
 
-I am originally from California, and I previously completed degrees and fellowships at [UC Irvine](https://www.physics.uci.edu/), [Caltech](http://www.astro.caltech.edu/), and [UC Berkeley](http://astro.berkeley.edu/). Zot Zot! When I'm not teaching or doing research in galaxy formation, I like to spend time with my kids, watch (baseball)[https://twitter.com/Dodgers] or (soccer/football)[https://twitter.com/LiverpoolFC] games, (tweet)[https://twitter.com/crosstrainor], and (take photos)[https://www.flickr.com/people/148328039@N08/] (often these activities are combined).
+I am originally from California, and I previously completed degrees and fellowships at [UC Irvine](https://www.physics.uci.edu/), [Caltech](http://www.astro.caltech.edu/), and [UC Berkeley](http://astro.berkeley.edu/). Zot Zot! When I'm not teaching or doing research in galaxy formation, I like to spend time with my kids, watch [baseball](https://twitter.com/Dodgers) or [soccer/football](https://twitter.com/LiverpoolFC) games, [tweet](https://twitter.com/crosstrainor), and [take photos](https://www.flickr.com/people/148328039@N08/) (often these activities are combined).
 
