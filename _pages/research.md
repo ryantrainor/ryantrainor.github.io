@@ -25,8 +25,7 @@ href="http://www.nasa.gov/mission_pages/hubble/main/index.html">Hubble
 Space Telescope</a>. I was also part of the team that
 built and commissioned MOSFIRE, and I have recently begun working with radio telescopes such as [IRAM/NOEMA](https://www.iram-institute.org/EN/noema-project.php).
 
-Understanding Lyman-alpha Emission
-===
+## Understanding Lyman-alpha Emission
 
 Several of  my projects focus on understanding a specific type of light called Lyman-alpha (Lya)
 emission. Lya emission is emitted by excited hydrogen gas, and
@@ -38,9 +37,8 @@ as it tries to get out. In one of our recent papers, we conducted a careful anal
 methods for estimating how many Lya photons were created in galaxies and how many of them escape
 in order to predict the total efficiency with which these photons are detected in our 
 measurements of galaxies. <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887...85T/abstract'>(see paper)</a>
-  
-Properties of "baby" galaxies
-===
+
+## Properties of "baby" galaxies
 
 I am currently studying young
 galaxies called Lyman-alpha emitters
@@ -87,7 +85,7 @@ have been possible without the
 new instrument MOSFIRE
 described below. <a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'>(see paper)</a>
 
-# Host Halos of QSOs
+## Host Halos of QSOs
 			
 Hyperluminous QSOs are extremely bright and exceedingly rare; these objects are brighter than 10^14 solar luminosities, and there are likely only a few dozen of them in the observable universe.
 
