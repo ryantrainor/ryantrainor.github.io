@@ -10,12 +10,9 @@ author_profile: true
 <img src="https://crosstrainor.github.io/images/tel-ground-400.jpeg"><img src="https://crosstrainor.github.io/images/tel-space-400.jpeg"><br>
 *Images of Keck Telescopes and Magellan Clay Telescope &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA*
 
-My students and I are studying the evolution of galaxies and
-quasars (also known as QSOs) at the peak epochs of star formation and
-black hole accretion (2 < *z* < 3). I
-am particularly interested in the properties of
-dwarf galaxies as well as the environments around the <b>most
-powerful quasars in the Universe</b>. Most of my
+I am an observational astronomer, and my students and I study the evolution of galaxies and
+quasars over cosmic time. I am particularly interested in the evolution of the faintest galaxies in the peak epochs of star formation and
+black hole accretion (2 < *z* < 3, 10-12 billion years ago), as well as the interactions between galaxies and supermassive black holes during this time. Most of my
 work uses optical and infrared images
 and spectra from the <a
 href="http://www2.keck.hawaii.edu/inst/lris/">LRIS</a>, 
@@ -26,7 +23,7 @@ href="http://keckobservatory.org/">W.M. Keck
 Observatory</a>, as well as data from the <a
 href="http://www.nasa.gov/mission_pages/hubble/main/index.html">Hubble
 Space Telescope</a>. I was also part of the team that
-built and commissioned MOSFIRE.
+built and commissioned MOSFIRE, and I have recently begun working with radio telescopes such as [IRAM/NOEMA](https://www.iram-institute.org/EN/noema-project.php).
 
 Understanding Lyman-alpha Emission
 ===
