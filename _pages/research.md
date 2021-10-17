@@ -87,8 +87,8 @@ have been possible without the
 new instrument MOSFIRE
 described below. <a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'>(see paper)</a>
 
-Host Halos of QSOs
-===			
+#Host Halos of QSOs
+			
 Hyperluminous QSOs are extremely bright and exceedingly rare; these objects are brighter than 10^14 solar luminosities, and there are likely only a few dozen of them in the observable universe.
 
 By studying the spatial and velocity distribution of galaxies near the QSOs, we were able to determine that these QSOs sit in dark-matter halos of similar masses to those hosting lower-luminosity AGN and typical star-forming galaxies at these redshifts. In addition, we found that the QSOs are associated with high local densities of galaxies, which suggests that recent galaxy mergers are more important than halo mass in producing efficient (ie. hyperluminous) black-hole accretion. <a href='https://ui.adsabs.harvard.edu/abs/2012ApJ...752...39T/abstract'>(see paper)</a>
@@ -130,8 +130,8 @@ that may tell us about their kinematics and the effects of radiative
 transfer. With continuing MOSFIRE observations, we will further probe
 the physical properties of these objects.
 
-MOSFIRE
-===
+##MOSFIRE
+
 <img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
 
   As a member of the MOSFIRE
