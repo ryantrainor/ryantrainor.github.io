@@ -8,7 +8,7 @@ author_profile: true
 <img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.png"><br>
 *Images of Keck Telescopes and Magellan Clay Telescope &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA*
 
-I'm studying the evolution of galaxies and
+My students and I are studying the evolution of galaxies and
 quasars (also known as QSOs) at the peak epochs of star formation and
 black hole accretion (2 < *z* < 3). I
 am particularly interested in the properties of
@@ -27,7 +27,7 @@ Space Telescope</a>. I was also part of the team that
 built and commissioned MOSFIRE.
 
 Understanding Lyman-alpha Emission
-==
+===
 
 Several of  my projects focus on understanding a specific type of light called Lyman-alpha (Lya)
 emission. Lya emission is emitted by excited hydrogen gas, and
