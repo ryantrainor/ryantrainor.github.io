@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/AST100
 venue: "Franklin & Marshall College"
-date: F21
+date: F20, F21
 location: "Lancaster, PA"
 ---
 
