@@ -87,7 +87,7 @@ have been possible without the
 new instrument MOSFIRE
 described below. <a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'>(see paper)</a>
 
-#Host Halos of QSOs
+# Host Halos of QSOs
 			
 Hyperluminous QSOs are extremely bright and exceedingly rare; these objects are brighter than 10^14 solar luminosities, and there are likely only a few dozen of them in the observable universe.
 
@@ -130,7 +130,7 @@ that may tell us about their kinematics and the effects of radiative
 transfer. With continuing MOSFIRE observations, we will further probe
 the physical properties of these objects.
 
-##MOSFIRE
+## MOSFIRE
 
 <img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
 
