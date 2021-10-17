@@ -5,11 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://crosstrainor.github.io/images/keck-250.jpeg">
+<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg">src="https://crosstrainor.github.io/images/jwst-250.jpeg">
+*Images of Keck Telescopes and Magellan Clay Telescope (c) R. Trainor; Images of HST and JWST (c) NASA/ESA*
 
 I'm studying the evolution of galaxies and
 quasars (also known as QSOs) at the peak epochs of star formation and
-black hole accretion (2 < <i>z</i> < 3). I
+black hole accretion (2 < *z* < 3). I
 am particularly interested in the properties of
 dwarf galaxies as well as the environments around the <b>most
 powerful quasars in the Universe</b>. Most of my
@@ -26,7 +27,7 @@ Space Telescope</a>. I was also part of the team that
 built and commissioned MOSFIRE.
 
 Understanding Lyman-alpha Emission
-===
+==
 
 Several of  my projects focus on understanding a specific type of light called Lyman-alpha (Lya)
 emission. Lya emission is emitted by excited hydrogen gas, and
