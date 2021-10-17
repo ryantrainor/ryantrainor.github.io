@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg">src="https://crosstrainor.github.io/images/jwst-250.jpeg">
+<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.jpeg"><br>
 *Images of Keck Telescopes and Magellan Clay Telescope (c) R. Trainor; Images of HST and JWST (c) NASA/ESA*
 
 I'm studying the evolution of galaxies and
