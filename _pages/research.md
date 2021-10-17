@@ -136,6 +136,7 @@ the physical properties of these objects.
 MOSFIRE
 ===
 <img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
+
   As a member of the MOSFIRE
 instrument team, I helped
 calibrate and commission the
