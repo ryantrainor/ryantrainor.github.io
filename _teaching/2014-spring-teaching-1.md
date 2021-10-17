@@ -8,9 +8,9 @@ date: F20, F21
 location: "Lancaster, PA"
 ---
 
-AST100 is an introductory astronomy course intended for students who are not majoring in physics or astronomy. This course presents an introduction to the past, present, and future of the Universe we inhabit. We will discuss constellations, planets, stars, black holes, galaxies, and the Big Bang, as well as the tools that astronomers have used to study these topics over human history.
+AST100 is an introductory astronomy course intended for students who are not majoring in physics or astronomy. This course presents an introduction to the contents of the Universe, the tools we use to study it, and the intersections of astronomy with social and political questions.
 
-As we learn these concepts, we will develop our ability to understand and explain astronomy through conceptual reasoning, mathematical formulae, and analytical writing. My goals for you in this course are to be able to use these tools to articulate answers to the fundamental questions listed below and to think about how astronomy intersects with a broad spectrum of other human interests.
+We will discuss constellations, planets, stars, black holes, galaxies, and the Big Bang, as well as the tools that astronomers have used to study these topics over human history. As we learn these concepts, we will develop our ability to understand and explain astronomy through conceptual reasoning, mathematical formulae, and analytical writing. My goals for you in this course are to be able to use these tools to articulate answers to the fundamental questions listed below and to think about how astronomy intersects with a broad spectrum of other human interests.
 
 1. What do we see in the sky?
 2. How do astronomers study the sky?
