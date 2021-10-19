@@ -128,7 +128,7 @@ that may tell us about their kinematics and the effects of radiative
 transfer. With continuing MOSFIRE observations, we will further probe
 the physical properties of these objects.
 
-## MOSFIRE
+## Instrumentation
 
 <img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
 
