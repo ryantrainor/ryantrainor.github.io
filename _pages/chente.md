@@ -5,11 +5,11 @@ permalink: /chente/
 author_profile: true
 ---
 <!--
-<img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.png"><br>
+<img src="https://crosstrainor.github.io/images/vicente-leaping-250.jpeg">
 # Vicente ''Chente'' Brambila
 -->
 
-<img src="https://crosstrainor.github.io/images/vicente-leaping-250.jpeg"><img src="https://crosstrainor.github.io/images/vicente-barometer-250.jpeg"><img src="https://crosstrainor.github.io/images/vicente-poster-250.jpeg"><img src="https://crosstrainor.github.io/images/vicente-crouch-250.jpeg"><br>
+<img src="https://crosstrainor.github.io/images/vicente-barometer-250.jpeg"><img src="https://crosstrainor.github.io/images/vicente-poster-250.jpeg"><img src="https://crosstrainor.github.io/images/vicente-crouch-250.jpeg"><br>
 
 
 Vicente Brambila (1998-2021) grew up in Los Angeles and graduated from Franklin & Marshall College in May 2020 as a joint 
