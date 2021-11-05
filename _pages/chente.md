@@ -34,8 +34,8 @@ graduation day. His reply to me included the following words:
 
 Vicente often used dance to explore themes of justice. He was likewise interested in 
 using dance to connect with his ancestors, particularly those indigenous people of modern-day Mexico whose stories had been
-obscured by colonialism and time. One such dance---choreographed by Vicente and performed by himself and 
-friends---occurred on el D&iacute;a de Los Muertos, November 1, 2019, leaving an indelible mark on F&M's campus.
+obscured by colonialism and time. Several such dances performed and choreographed by Vicente--including one on the D&iacute;a 
+de Los Muertos in 2019---used the image of the monarch butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 # Mariposa: Movement and Memory
 
