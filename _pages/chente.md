@@ -39,5 +39,20 @@ de Los Muertos in 2019---used the image of the monarch butterfly (Spanish: *mari
 
 # Mariposa: Movement and Memory
 
+Around the time that Vicente were discussing *A History of Space and Time*, I was studying a fascinating new galaxy our team had discovered. 
+Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture the exciting nature of the object: this was a galaxy with 
+huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the galaxy itself, clearly demonstrating the mysterious 
+interactions between galaxies and their surrounding gas.
+
+The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
+produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
+they are often framed as a violent battle using words such as "strangulation" and "disruption", but I was inspired by [other astronomers](https://folklife.si.edu/magazine/intergalactic-pachamama-kichwa-cosmology-vs-western-astrophysics) to be more thoughtful about the language 
+I use to describe the Universe, especially with respect to the processes that brought our Galaxy into being. *What would it mean to frame our
+own cosmic history as a dance rather than a war?*
+
+After Vicente's death, many F&M community members and I were able to meet with his family and share our memories of his college years. In those
+conversations, the Brambila family and I talked about the connections between Vicente's study of history and ancestry through the lens of 
+dance and my own studies through the tools of astronomy. We decided that naming this unique galaxy *Mariposa* in memory of Vicente would be
+an appropriate way to honor his work and celebrate his life.
 
 
