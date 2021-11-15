@@ -21,7 +21,7 @@ by many other in both Pennsylvania and California.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-# Dance as Justice
+# Dance and Justice
 
 I never taught Vicente in a class, but I had the privilege to see him perform many times, and we shared 
 several conversations while he was enrolled in an astronomy class down the hall from my 
