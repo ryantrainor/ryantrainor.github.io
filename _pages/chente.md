@@ -21,7 +21,7 @@ by many other in both Pennsylvania and California.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-# Dance as Justice, Past and Present
+# Dance as Justice
 
 I never taught Vicente in a class, but I had the privilege to see him perform many times, and we shared 
 several conversations while he was enrolled in an astronomy class down the hall from my 
@@ -37,7 +37,7 @@ using dance to connect with his ancestors, particularly those indigenous people 
 obscured by colonialism and time. Several such dances performed and choreographed by Vicente--including one on the D&iacute;a 
 de Los Muertos in 2019---used the image of the monarch butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
-# Mariposa and our History as Dance
+# Mariposa and the Dance of Cosmic History
 
 Around the time that Vicente were discussing *A History of Space and Time*, I was studying a fascinating new galaxy our team had discovered. 
 Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture the exciting nature of the object: this was a galaxy with 
