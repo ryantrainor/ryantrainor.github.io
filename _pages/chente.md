@@ -67,6 +67,6 @@ For more information on Vicente's legacy in Los Angeles and Lancaster, please se
 
 In addition, in the final year of his life Vicente became very interested in the ecological protection of monarch butterfly habitats in 
 Mexico, particularly after the deaths of the environmental activists Homero Gómez and Raúl Hernández in early 2020. Please consider supporting
-these habitats, including both their (butterfly and human long-term inhabitants)[https://www.sciencedirect.com/science/article/abs/pii/S0305750X21000322].
+these habitats, including both their [butterfly and human long-term inhabitants](https://www.sciencedirect.com/science/article/abs/pii/S0305750X21000322).
 
 
