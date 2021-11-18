@@ -30,14 +30,14 @@ redirect_from:
 * Postdoctoral Research Fellow, Miller Institute for Basic Research in Science (2014-2017)
   * Postdoctoral fellowship in astronomy funded by the interdisciplinary Miller Institute at the University of California, Berkeley
 
-## Contact
-* Physics & Astronomy Department
-* Franklin & Marshall College
-* 415 Harrisburg Pike
-* Lancaster, PA 17603
-
 ## Publications
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+
+## Contact
+ Physics & Astronomy Department
+ Franklin & Marshall College
+ 415 Harrisburg Pike
+ Lancaster, PA 17603
 
 
 
