@@ -9,26 +9,44 @@ redirect_from:
 
 [Here is a PDF of my CV](../files/trainorCV.pdf)
 
-<!--
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Astrophysics, Caltech (defended 2014, conferred 2015)
+* M.S. in Astrophysics, Caltech (2010)
+  * Thesis: Faint Galaxies in the Mpc-scale Environments of Hyperluminous QSOs at 2<z<3
+  * Advisor: Charles Steidel
+* B.S. in Physics, University of California, Irvine (2008)
+  * Honors Thesis: Improving Galaxy Mass Estimates by Accounting for Binary Systems
+  * Advisors: Manoj Kaplinghat & James Bullock
 
-Work experience
+Academic Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Franklin & Marshall College (2017-present)
+  * Tenure-track faculty position in the F&M Physics & Astronomy Department
+  * Parental leave Fall 2019, junior faculty research leave Spring 2021
+* Visiting Scientist, Johns Hopkins University (2021-present)
+  * Remote visiting scientist position in the department of physics and astronomy
+* Postdoctoral Research Fellow, Miller Institute for Basic Research in Science (2014-2017)
+  * Postdoctoral fellowship in astronomy funded by the interdisciplinary Miller Institute at the University of California, Berkeley
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Contact
+======
+* Physics & Astronomy Department
+* Franklin & Marshall College
+* 415 Harrisburg Pike
+* Lancaster, PA 17603
+
+Publications
+======
+You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+
+
+
+<!--
+
   
 Skills
 ======
