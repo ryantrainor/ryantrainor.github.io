@@ -35,8 +35,11 @@ You can find all my published work on the <a href="https://ui.adsabs.harvard.edu
 
 ## Contact
  Physics & Astronomy Department
+ 
  Franklin & Marshall College
+ 
  415 Harrisburg Pike
+ 
  Lancaster, PA 17603
 
 
