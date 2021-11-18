@@ -50,7 +50,7 @@ Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture
 huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the galaxy itself, clearly demonstrating the mysterious 
 interactions between galaxies and their surrounding gas.
 
-<img style="border:2px solid white" src="https://crosstrainor.github.io/images/mariposa-annotated-60.jpeg"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg">
+<img style="border:2px solid white" src="https://crosstrainor.github.io/images/mariposa-annotated-60.png"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg">
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
 produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
