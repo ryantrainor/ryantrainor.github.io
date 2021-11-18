@@ -10,6 +10,9 @@ author_profile: true
 <img src="https://crosstrainor.github.io/images/tel-ground-400.jpeg"><img src="https://crosstrainor.github.io/images/tel-space-400.jpeg"><br>
 *Images of Keck Telescopes and Magellan Clay Telescope &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA*
 
+You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+
+
 I am an observational astronomer, and my students and I study the evolution of galaxies and
 quasars over cosmic time. I am particularly interested in the evolution of the faintest galaxies in the peak epochs of star formation and
 black hole accretion (2 < *z* < 3, 10-12 billion years ago), as well as the interactions between galaxies and supermassive black holes during this time. Most of my
