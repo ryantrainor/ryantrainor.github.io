@@ -34,13 +34,10 @@ redirect_from:
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 ## Contact
- Physics & Astronomy Department
- 
- Franklin & Marshall College
- 
- 415 Harrisburg Pike
- 
- Lancaster, PA 17603
+* Physics & Astronomy Department
+* Franklin & Marshall College 
+* 415 Harrisburg Pike
+* Lancaster, PA 17603
 
 
 
