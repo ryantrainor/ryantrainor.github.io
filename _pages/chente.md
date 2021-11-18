@@ -19,7 +19,7 @@ Gay Rights, and he was known throughout campus for his award-winning dancing and
 well as his activitism for justice. He is missed by his family in LA, by his partner Joshua, and 
 by many other in both Pennsylvania and California.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="576" height="324" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
