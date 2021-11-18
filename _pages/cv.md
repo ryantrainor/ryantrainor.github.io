@@ -13,7 +13,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+==
 * Ph.D in Astrophysics, Caltech (defended 2014, conferred 2015)
 * M.S. in Astrophysics, Caltech (2010)
   * Thesis: Faint Galaxies in the Mpc-scale Environments of Hyperluminous QSOs at 2<z<3
@@ -23,7 +23,7 @@ Education
   * Advisors: Manoj Kaplinghat & James Bullock
 
 Academic Positions
-======
+========
 * Assistant Professor, Franklin & Marshall College (2017-present)
   * Tenure-track faculty position in the F&M Physics & Astronomy Department
   * Parental leave Fall 2019, junior faculty research leave Spring 2021
