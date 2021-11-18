@@ -35,8 +35,8 @@ His reply to me included the following words:
 
 Vicente often used dance to explore themes of justice. He was likewise interested in 
 using dance to connect with his ancestors, particularly those indigenous people of modern-day Mexico whose stories had been
-obscured by colonialism and time. Several such dances performed and choreographed by Vicente--including one on the D&iacute;a 
-de Los Muertos in 2019---used the image of the monarch butterfly (Spanish: *mariposa monarca*) to explore this theme.
+obscured by colonialism and time. Several such dances performed and choreographed by Vicente used the image of the monarch 
+butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
