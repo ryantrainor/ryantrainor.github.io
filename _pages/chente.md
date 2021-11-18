@@ -52,7 +52,7 @@ interactions between galaxies and their surrounding gas.
 
 <!--<img src="https://crosstrainor.github.io/images/mariposa-annotated-60.png" height="220" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours"><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" height="220" alt='Vicente holding his wings out to the side in a similar shape to Mariposa'>-->
 
-<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-240.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white">
+<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-240.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" height=315><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" height=315>
 
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
