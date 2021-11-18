@@ -38,6 +38,10 @@ using dance to connect with his ancestors, particularly those indigenous people 
 obscured by colonialism and time. Several such dances performed and choreographed by Vicente--including one on the D&iacute;a 
 de Los Muertos in 2019---used the image of the monarch butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+&nbsp;
+
 # Mariposa and the Dance of Cosmic History
 
 Around the time that Vicente and I were discussing *A History of Space and Time*, I was studying a fascinating new galaxy our 
