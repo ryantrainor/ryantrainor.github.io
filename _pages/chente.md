@@ -9,7 +9,7 @@ author_profile: true
 # Vicente ''Chente'' Brambila
 -->
 
-<img style="border:5px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-200.jpeg"><img src="https://crosstrainor.github.io/images/vicente-barometer-200.jpeg"><img src="https://crosstrainor.github.io/images/vicente-poster-200.jpeg"><img src="https://crosstrainor.github.io/images/vicente-crouch-200.jpeg"><br>
+<img style="border:5px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-200.jpeg"><img style="border:5px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-200.jpeg"><img style="border:5px solid white" src="https://crosstrainor.github.io/images/vicente-poster-200.jpeg"><img style="border:5px solid white" src="https://crosstrainor.github.io/images/vicente-crouch-200.jpeg"><br>
 
 
 Vicente ''Chente'' Brambila (1998-2021) grew up in Los Angeles and graduated from Franklin & Marshall College in May 2020 as a joint 
