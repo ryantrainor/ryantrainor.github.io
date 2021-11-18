@@ -50,6 +50,8 @@ Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture
 huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the galaxy itself, clearly demonstrating the mysterious 
 interactions between galaxies and their surrounding gas.
 
+<img style="border:2px solid white" src="https://crosstrainor.github.io/images/mariposa-annotated-60.jpeg"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg">
+
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
 produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
 they are often framed as a violent battle using words such as "strangulation" and "disruption". However, I have been inspired by [other astronomers](https://folklife.si.edu/magazine/intergalactic-pachamama-kichwa-cosmology-vs-western-astrophysics) to be more intentional about the language I use to describe the Universe, especially with respect to the processes that brought our Galaxy into being. One of the questions Vicente and I discussed was *what would it mean to frame our own cosmic history as a dance rather than a war?* 
