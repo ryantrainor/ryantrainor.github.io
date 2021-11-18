@@ -85,11 +85,12 @@ author:
   bio              : "Asst Prof Physics"
   location         : "Lancaster, PA"
   employer         : "Franklin & Marshall"
+  employerurl      : "https://www.fandm.edu/physics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H-1xpPEAAAAJ&hl=en"
   email            : "ryan.trainor@fandm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.fandm.edu/physics"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
