@@ -9,7 +9,7 @@ author_profile: true
 # Vicente ''Chente'' Brambila
 -->
 
-<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-150.jpeg"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-150.jpeg"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-150.jpeg"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-crouch-150.jpeg"><br>
+<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-150.jpeg" alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-150.jpeg" alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-150.jpeg" alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-crouch-150.jpeg" alt='Vicente wears a headdress as part of a dance performance'><br>
 
 
 Vicente ''Chente'' Brambila (1998-2021) grew up in Los Angeles and graduated from Franklin & Marshall College in May 2020 as a joint 
