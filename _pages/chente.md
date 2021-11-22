@@ -9,7 +9,8 @@ author_profile: true
 # Vicente ''Chente'' Brambila
 -->
 
-<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-150.jpeg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-150.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-150.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-crouch-150.jpeg" width=175 alt='Vicente wears a headdress as part of a dance performance'><br>
+<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpeg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175.jpg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
+<font size="-4">Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</font>
 
 
 Vicente ''Chente'' Brambila (1998-2021) grew up in Los Angeles and graduated from Franklin & Marshall College in May 2020 as a joint 
@@ -40,9 +41,9 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <!-- <sub><i>A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</i></sub> -->
-<font size="+1">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
+<font size="-4">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
 
-<--! &nbsp; -->
+<!-- &nbsp; -->
 
 # Mariposa and the Dance of Cosmic History
 
