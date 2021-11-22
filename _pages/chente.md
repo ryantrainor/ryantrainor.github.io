@@ -55,7 +55,7 @@ interactions between galaxies and their surrounding gas.
 <!--<img src="https://crosstrainor.github.io/images/mariposa-annotated-60.png" height="220" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours"><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" height="220" alt='Vicente holding his wings out to the side in a similar shape to Mariposa'>-->
 
 <img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-240.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" height=315><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" height=315>
-
+<i>Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the apparent outflow/ionization geometry. Right: Vicente with his Monarch Butterfly wings (photography credit <a href='https://www.tobyrichards.com/'>Toby Richards<\a></i>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
 produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
