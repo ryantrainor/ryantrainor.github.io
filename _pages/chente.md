@@ -9,7 +9,9 @@ author_profile: true
 # Vicente ''Chente'' Brambila
 -->
 
-<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'> <font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</font>
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+  <img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
+Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</div>
 
 
 Vicente ''Chente'' Brambila (1998-2021) grew up in Los Angeles and graduated from Franklin & Marshall College in May 2020 as a joint 
