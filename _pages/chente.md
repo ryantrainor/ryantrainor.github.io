@@ -59,7 +59,7 @@ interactions between galaxies and their surrounding gas.
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
 produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
-they are often framed as a violent battle using words such as "strangulation" and "disruption". However, I have been inspired by [other astronomers](https://folklife.si.edu/magazine/intergalactic-pachamama-kichwa-cosmology-vs-western-astrophysics) to rethink my use of violent language to describe the Universe, especially with respect to the processes that brought our Galaxy into being. One of the questions Vicente and I discussed was *what would it mean to frame our own cosmic history as a dance rather than a war?* 
+they are often framed as a violent battle using words such as "strangulation" and "disruption". However, I have been inspired by [other astronomers](https://folklife.si.edu/magazine/intergalactic-pachamama-kichwa-cosmology-vs-western-astrophysics) to rethink my use of violent language to describe the Universe, especially with respect to the processes that brought our Galaxy into being. One of the questions Vicente and I discussed was *what would it mean to see our own cosmic history as a dance rather than a war?* 
 
 After Vicente's death, many F&M community members and I were able to meet with his family and share our memories of his college years. In those
 conversations, the Brambila family and I talked about the connections between Vicente's study of history and ancestry through the lens of 
