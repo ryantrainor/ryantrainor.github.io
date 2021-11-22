@@ -41,7 +41,7 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <!-- <sub><i>A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</i></sub> -->
-<font style="line-height: 0.8em; font-size: 0.5em">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
+<font style="line-height: 0.5em; font-size: 1.0em">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
 
 <!-- &nbsp; -->
 
