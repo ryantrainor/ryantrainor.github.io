@@ -25,7 +25,7 @@ by many other in both Pennsylvania and California.
 
 # Dance and Justice
 
-I had the privilege to see him perform many times, and we shared several conversations while he was enrolled in an 
+I had the privilege to see Vicente perform many times, and we shared several conversations while he was enrolled in an 
 astronomy class called *A History of Space and Time* that met down the hall from my office. We spoke and exchanged 
 occasional emails about about astronomy, social justice, and understanding ourselves and our world through studying the past. 
 One of the last messages I exchanged with Vicente occurred soon after his graduation in May 2021.
@@ -52,7 +52,8 @@ huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the 
 interactions between galaxies and their surrounding gas.
 
 <!-- <img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=387><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=309><br> -->
-<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white"><br>
+<!-- <img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white"><br> -->
+<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
 <font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Vicente with his Monarch Butterfly wings. Photo credit <a href='https://www.tobyrichards.com/'>Toby Richards</a>.</font>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
