@@ -73,8 +73,8 @@ a matter of domination or death; perhaps it is more like the rhythm of a drum th
 
 # Chente's Memory
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
-<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">A video including clips from many of Chente's dance performances at F&M. Credit: Vicente Brambila and Franklin & Marshall College.</div><br>
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;"><iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
+A video including clips from many of Chente's dance performances at F&M. Credit: Vicente Brambila and Franklin & Marshall College.</div>
 
 Chente's legacy lives on in Los Angeles and Lancaster. Many of Chente's 
 friends and community members contributed to a [tribute page](https://www.kudoboard.com/boards/1Fg8RTXh), and the 
