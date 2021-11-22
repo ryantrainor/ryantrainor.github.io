@@ -43,6 +43,7 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 <!-- <sub><i>A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</i></sub> -->
 <font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
 
+<br>
 <!-- &nbsp; -->
 
 # Mariposa and the Dance of Cosmic History
