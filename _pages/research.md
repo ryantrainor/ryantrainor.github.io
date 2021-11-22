@@ -9,7 +9,7 @@ author_profile: true
 -->
 <div style="line-height: 1.0em; font-size: 0.8em; font-style: italic;">
 <img src="https://crosstrainor.github.io/images/tel-ground-400.jpeg" width="330"><img src="https://crosstrainor.github.io/images/tel-space-400.jpeg" width="330">
-<!-- <br> -->
+<br>
 Images of Keck and Magellan Telescopes &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA</div>
 
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
