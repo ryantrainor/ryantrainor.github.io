@@ -74,7 +74,7 @@ a matter of domination or death; perhaps it is more like the rhythm of a drum th
 
 # Chente's Memory
 
-If you would like to learn more about Chente's legacy in Los Angeles and Lancaster, please see the following pages. Many of Chente's 
+Chente's legacy lives on in Los Angeles and Lancaster. Many of Chente's 
 friends and community members contributed to a [tribute page](https://www.kudoboard.com/boards/1Fg8RTXh), and the 
 [Vicente Brambila Visual & Performing Arts (VAPA) Scholarship](https://www.amuanimo.org/studentscholarships) is now awarded to a student at 
 a California Green Dot High School who intends to pursue an education in visual and performing arts after high school.
