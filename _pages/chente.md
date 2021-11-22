@@ -22,8 +22,9 @@ well as his activitism for justice. He is missed by his family in LA, by his par
 by many other in both Pennsylvania and California.
 
 <div style="max-width:710">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" frameborder="0" allowfullscreen></iframe><br>
+</div>
+  
 <!-- &nbsp; -->
 
 # Dance and Justice
