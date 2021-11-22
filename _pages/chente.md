@@ -18,8 +18,8 @@ Vicente ''Chente'' Brambila (1998-2021) grew up in Los Angeles and graduated fro
 major in Dance and Government. As a student at F&M, Chente was active in student groups such 
 as [Mi Gente Latina](https://www.fandm.edu/campus-life/clubs/mi-gente-latina), [IMPACT](https://www.fandm.edu/campus-life/clubs/i-m-p-a-c-t), and [SAGA](https://www.fandm.edu/campus-life/clubs/lgbta). He worked as a researcher with F&M's Global Barometer of 
 Gay Rights, and he was known throughout campus for his award-winning dancing and choreography as
-well as his activitism for justice. He is missed by his family in LA, by his partner Joshua, and 
-by many other in both Pennsylvania and California.
+well as his activitism for justice. Tragically, Chente was killed in a car accident less than a year after his graduation. He is missed by his family in
+LA, by his partner Joshua, and by many others in both Pennsylvania and California.
 
 <div style="max-width:710">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" frameborder="0" allowfullscreen></iframe><br>
