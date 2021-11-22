@@ -25,19 +25,19 @@ LA, by his partner Joshua, and by many others in both Pennsylvania and Californi
   
 <!-- &nbsp; -->
 
-# Dance and Justice
+# Dance, Justice, and History
 
 I had the privilege to see Chente perform many times, and we shared several conversations while he was enrolled in an 
 astronomy class called *A History of Space and Time* that met down the hall from my office. We spoke and exchanged 
 occasional emails about about astronomy, social justice, and understanding ourselves and our world through studying the past. 
 One of the last messages I exchanged with Chente occurred soon after his graduation in May 2021.
-His reply to me included the following words:
+His last email to me from his school account included the following words:
 
 *Your email inspires me to continue dancing! Dancing is my political message. Existing is political. Movement transforms the roots of action. Dancing is liberating. It is also ephemeral in its frame of movement.*
 
 Chente often used dance to explore themes of justice. He was likewise interested in 
-using dance to connect with his ancestors, particularly those indigenous people of modern-day Mexico whose stories had been
-obscured by colonialism and time. Several such dances performed and choreographed by Chente used the image of the monarch 
+using dance to connect with his ancestors, particularly those indigenous people of the lands of modern-day Mexico whose stories had been
+obscured by colonialism. Several such dances performed and choreographed by Chente used the image of the monarch 
 butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
