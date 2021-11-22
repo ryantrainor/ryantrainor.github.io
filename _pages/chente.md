@@ -46,7 +46,7 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 <br>
 <!-- &nbsp; -->
 
-# Mariposa and the Dance of Cosmic History
+# Mariposa: a Dance of Galaxies and Gas
 
 Around the time that Vicente and I were discussing *A History of Space and Time*, I was studying a fascinating new galaxy our 
 team had discovered. 
