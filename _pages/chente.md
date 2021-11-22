@@ -20,9 +20,9 @@ Gay Rights, and he was known throughout campus for his award-winning dancing and
 well as his activitism for justice. He is missed by his family in LA, by his partner Joshua, and 
 by many other in both Pennsylvania and California.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
 
-&nbsp;
+<!-- &nbsp; -->
 
 # Dance and Justice
 
@@ -41,9 +41,7 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <!-- <sub><i>A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</i></sub> -->
-<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font>
-
-<br>
+<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</font><br>
 <!-- &nbsp; -->
 
 # Mariposa: a Dance of Galaxies and Gas
@@ -56,7 +54,7 @@ interactions between galaxies and their surrounding gas.
 
 <!--<img src="https://crosstrainor.github.io/images/mariposa-annotated-60.png" height="220" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours"><img src="https://crosstrainor.github.io/images/vicente-wings-240.jpeg" height="220" alt='Vicente holding his wings out to the side in a similar shape to Mariposa'>-->
 
-<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white; max-height:310"><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white; max-height:310"><br>
+<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white; max-height:300"><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Vicente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white; max-height:300"><br>
 <font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Vicente with his Monarch Butterfly wings. Photo credit <a href='https://www.tobyrichards.com/'>Toby Richards</a>.</font>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
