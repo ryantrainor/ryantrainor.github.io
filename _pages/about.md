@@ -14,7 +14,7 @@ My research is centered on the evolution of galaxies in the early Universe. In p
 deaths of stars shape the evolution of
 galaxies. My work includes making measurements of
 the production of elements in forming galaxies, the
-explosions that blow out gas and halt star-formation,
+explosions that accelerate gas and set the tempo of star-formation,
 the escape of ionizing photons from galaxies, and the
 effects of some of the brightest quasars (aka,
 "active" black holes) on the gas and galaxies around
