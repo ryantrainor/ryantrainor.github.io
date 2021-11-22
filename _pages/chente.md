@@ -9,7 +9,7 @@ author_profile: true
 # Vicente ''Chente'' Brambila
 -->
 
-<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpeg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175.jpg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
+<img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
 <font size="-4">Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</font>
 
 
