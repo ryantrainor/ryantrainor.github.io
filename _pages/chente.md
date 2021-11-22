@@ -21,8 +21,6 @@ Gay Rights, and he was known throughout campus for his award-winning dancing and
 well as his activitism for justice. Tragically, Chente was killed in a car accident less than a year after his graduation. He is missed by his family in
 LA, by his partner Joshua, and by many others in both Pennsylvania and California.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
-  
 <!-- &nbsp; -->
 
 # Dance, Justice, and History
@@ -73,6 +71,9 @@ relationship to our ancestors--both on Earth and in the cosmos beyond. In this f
 a matter of domination or death; perhaps it is more like the rhythm of a drum that keeps extragalactic evolution precisely on time.
 
 # Chente's Memory
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/503656676?h=2187b51823" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">A video including clips from many of Chente's dance performances at F&M. Credit: Vicente Brambila and Franklin & Marshall College.</div><br>
 
 Chente's legacy lives on in Los Angeles and Lancaster. Many of Chente's 
 friends and community members contributed to a [tribute page](https://www.kudoboard.com/boards/1Fg8RTXh), and the 
