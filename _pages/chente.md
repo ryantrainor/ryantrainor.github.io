@@ -39,7 +39,7 @@ obscured by colonialism and time. Several such dances performed and choreographe
 butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-*A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.*
+<sub>*A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.*</sub>
 
 &nbsp;
 
