@@ -27,8 +27,8 @@ redirect_from:
   * Parental leave Fall 2019, junior faculty research leave Spring 2021
 * Visiting Scientist, Johns Hopkins University (2021-present)
   * Remote visiting scientist position in the department of physics and astronomy
-* Postdoctoral Research Fellow, Miller Institute for Basic Research in Science (2014-2017)
-  * Postdoctoral fellowship in astronomy funded by the interdisciplinary Miller Institute at the University of California, Berkeley
+* Postdoctoral Research Fellow, Miller Institute (2014-2017)
+  * Postdoctoral fellowship in astronomy funded by the interdisciplinary Miller Institute for Basic Research in Science at the University of California, Berkeley
 
 ## Publications
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
