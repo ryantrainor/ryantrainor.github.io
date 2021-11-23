@@ -26,7 +26,7 @@ LA, by his partner Joshua, and by many others in both Pennsylvania and Californi
 # Dance, Justice, and History
 
 I had the privilege to see Chente perform many times, and we shared several conversations while he was enrolled in an 
-astronomy class called *A History of Space and Time* that met down the hall from my office. We spoke and exchanged 
+astronomy class called *Changing Concepts of the Universe* that met down the hall from my office. We spoke and exchanged 
 occasional emails about about astronomy, social justice, and understanding ourselves and our world through studying the past. 
 One of the last messages I exchanged with Chente occurred soon after his graduation in May 2021.
 His last email to me from his school account included the following words:
@@ -46,7 +46,7 @@ butterfly (Spanish: *mariposa monarca*) to explore this theme.
 
 # Mariposa: a Dance of Galaxies and Gas
 
-Around the time that Chente and I were discussing *A History of Space and Time*, I was studying a fascinating new galaxy our 
+Around the time that Chente and I were discussing *Changing Concepts of the Universe*, I was studying a fascinating new galaxy our 
 team had discovered. 
 Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture the exciting nature of the object: this was a galaxy with 
 huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the galaxy itself, clearly demonstrating the mysterious 
