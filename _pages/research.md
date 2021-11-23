@@ -43,7 +43,7 @@ methods for estimating how many Lya photons were created in galaxies and how man
 in order to predict the total efficiency with which these photons are detected in our 
 measurements of galaxies. <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887...85T/abstract'>(see paper)</a>
 
-## Properties of "baby" galaxies
+## Properties of "Baby" Galaxies
 
 I am currently studying young
 galaxies called Lyman-alpha emitters
@@ -90,7 +90,7 @@ have been possible without the
 new instrument MOSFIRE
 described below. <a href='https://ui.adsabs.harvard.edu/abs/2016ApJ...832..171T/abstract'>(see paper)</a>
 
-## Gas and Dark Matter Enrivonrments of QSOs
+## Gas and Dark Matter Environments of QSOs
 			
 Hyperluminous QSOs are extremely bright and exceedingly rare; these objects are brighter than 10^14 solar luminosities, and there are likely only a few dozen of them in the observable universe.
 
