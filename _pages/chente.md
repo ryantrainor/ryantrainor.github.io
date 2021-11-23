@@ -69,7 +69,7 @@ dance and my own studies through the tools of astronomy. Through those conversat
 in memory of Chente and in gratitude for the way he helped shaped my own perspective on galaxy formation. The wing-like shape of Mariposa evokes 
 Chente's many dances with his Monarch butterfly wings, providing a reminder of the artistry he shared and of the power of dance to re-imagine our 
 relationship to our ancestors--both on Earth and in the cosmos beyond. In this framing, the slow growth of galaxies through feedback interactions is not
-a matter of domination or death; perhaps it is more like the rhythm of a drum that keeps extragalactic evolution precisely on time.
+a matter of domination or of death; it is more like the rhythm of a drum that keeps extragalactic evolution precisely on time.
 
 # Chente's Memory
 
