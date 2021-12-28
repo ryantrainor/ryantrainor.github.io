@@ -12,7 +12,7 @@ author_profile: true
 <br>
 Images of Keck and Magellan Telescopes &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA</div>
 
-You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="https://scholar.google.com/citations?user=H-1xpPEAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
 I am an observational astronomer, and my students and I study the evolution of galaxies and
