@@ -8,7 +8,7 @@ author_profile: true
 <img src="https://crosstrainor.github.io/images/keck-250.jpeg"><img src="https://crosstrainor.github.io/images/hst-250.jpeg"><img src="https://crosstrainor.github.io/images/magellan-250.jpeg"><img src="https://crosstrainor.github.io/images/jwst-250.png"><br>
 -->
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
-<img src="images/tel-ground-400.jpeg" width="350"><img src="https://crosstrainor.github.io/images/tel-space-400.jpeg" width="350">
+<img src="https://ryantrainor.github.io/images/tel-ground-400.jpeg" width="350"><img src="https://ryantrainor.github.io/images/tel-space-400.jpeg" width="350">
 <br>
 Images of Keck and Magellan Telescopes &copy; R. Trainor; Images of HST and JWST &copy; NASA/ESA</div>
 
