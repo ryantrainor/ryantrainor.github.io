@@ -5,12 +5,12 @@ permalink: /chente/
 author_profile: true
 ---
 <!--
-<img src="https://crosstrainor.github.io/images/vicente-leaping-250.jpeg">
+<img src="https://ryantrainor.github.io/images/vicente-leaping-250.jpeg">
 # Vicente ''Chente'' Brambila
 -->
 
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
-  <img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://crosstrainor.github.io/images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
+  <img style="border:2px solid white" src="https://ryantrainor.github.io/images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="https://ryantrainor.github.io/images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="https://ryantrainor.github.io/images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="https://ryantrainor.github.io/images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
 Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</div>
 
 
@@ -52,9 +52,9 @@ Initially designated Q1603-NB2500 and then Q1603-BLOB1, its name did not capture
 huge butterfly-like "wings" of illuminated hydrogen that extend well beyond the galaxy itself, clearly demonstrating the mysterious 
 interactions between galaxies and their surrounding gas.
 
-<!-- <img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=387><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=309><br> -->
-<!-- <img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white"><br> -->
-<img src="https://crosstrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="https://crosstrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
+<!-- <img src="https://ryantrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=387><img src="https://ryantrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=309><br> -->
+<!-- <img src="https://ryantrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="https://ryantrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white"><br> -->
+<img src="https://ryantrainor.github.io/images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="https://ryantrainor.github.io/images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
 <font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit <a href='https://www.tobyrichards.com/'>Toby Richards</a>.</font>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
