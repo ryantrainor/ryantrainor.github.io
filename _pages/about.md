@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<img src='../images/subaru-kecks-wide-600.jpg' alt='The Subaru Observatory and W. M. Keck Observatory on Maunakea, HI'>
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+<img src="../images/subaru-kecks-wide-600.jpg" width="600">
+<br>
+Images &copy; R. Trainor</div>
 
 I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.
 My research is centered on the evolution of galaxies in the early Universe. In particular, I seek to understand
