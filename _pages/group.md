@@ -11,3 +11,9 @@ author_profile: true
 {% for post in site.group %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Former Group Members
+
+{% for post in site.formergroup %}
+  {% include archive-single.html %}
+{% endfor %}
