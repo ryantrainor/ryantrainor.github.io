@@ -191,6 +191,9 @@ collections:
   group:
     output: true
     permalink: /:collection/:path/
+  formergroup:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
