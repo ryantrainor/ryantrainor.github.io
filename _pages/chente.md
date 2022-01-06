@@ -89,11 +89,6 @@ a California Green Dot High School who intends to pursue an education in visual 
 <br>
 An Eastern Redbud tree planted on the F&M campus with a plaque in honor of Vicente.</div>
 
-<img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="../images/vicente-wings-rilla-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
-<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca), costume design by Joshua Arroyo.</font>
-</div>
-
-
 In the final year of his life, Chente became very interested in the ecological protection of monarch butterfly habitats in 
 Mexico, particularly after the deaths of the environmental activists Homero Gómez and Raúl Hernández in early 2020. Please consider 
 supporting these habitats, including the rights of their 
