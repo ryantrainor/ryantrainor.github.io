@@ -19,5 +19,5 @@ Below are some of our former group members who are now doing other cool things i
 
 
 {% for post in site.formergroup %}
-  {% include archive-single.html %}
+  - {% include archive-single.html %}
 {% endfor %}
