@@ -56,8 +56,8 @@ interactions between galaxies and their surrounding gas.
 <!-- <img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white"><img src="../images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white"><br> -->
 
 <div style="text-align: center;">
-<img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="../images/vicente-wings-richards-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
-<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit <a href='https://www.tobyrichards.com/'>Toby Richards</a>.</font>
+<img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="../images/vicente-wings-rilla-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
+<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca).</font>
 </div>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
