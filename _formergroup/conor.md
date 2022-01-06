@@ -1,6 +1,6 @@
 ---
 title: "Conor Larison '20"
-excerpt: "Galaxy morphologies from HST/WFC3<br/><img src='/images/500x300.png'>"
+excerpt: "Galaxy morphologies from HST/WFC3"
 collection: group
 ---
 
