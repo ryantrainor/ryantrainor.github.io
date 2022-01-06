@@ -10,7 +10,8 @@ author_profile: true
 -->
 
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
-  <img style="border:2px solid white" src="../images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="../images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="../images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="../images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
+<!--   <img style="border:2px solid white" src="../images/vicente-leaping-175sq.jpg" width=175 alt='Vicente leaps into the sky with outstretched limbs'><img style="border:2px solid white" src="../images/vicente-barometer-175sq.jpeg" width=175 alt='Vicente speaks at a panel about the Global Barometer of Gay Rights'><img style="border:2px solid white" src="../images/vicente-poster-175sq.jpeg" width=175 alt="Vicente presents a research poster while wearing a blazer and tie"><img style="border:2px solid white" src="../images/vicente-diadelosmuertos-175sq.jpeg" width=175 alt='Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br> -->
+<img src="../images/vicente-leaping-barometer.png" alt='Vicente leaps into the sky with outstretched limbs / Vicente speaks at a panel about the Global Barometer of Gay Rights'><img src="../images/vicente-poster-diadelosmuertos.png" alt='Vicente presents a research poster while wearing a blazer and tie / Vicente wears skeleton makeup and extends his butterfly wings before a crowd.'><br>
 Image credits Vicente Brambila and Raluca Rilla (IG: @raluca)</div>
 
 
