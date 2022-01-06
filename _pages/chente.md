@@ -87,7 +87,7 @@ a California Green Dot High School who intends to pursue an education in visual 
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/vicente-tree-350.jpeg" width="350"><img src="../images/vicente-plaque-350.png" width="350">
 <br>
-An Eastern Redbud tree planted on the F&M campus with a plaque in honor of Vicente.</div>
+An Eastern Redbud tree planted on the F&M campus in honor of Vicente. Below, the plaque reads "A warrior for peace and justice, an artist of ancestral vision, and dear friend to many. Y olvidarte no puedo."</div>
 
 In the final year of his life, Chente became very interested in the ecological protection of monarch butterfly habitats in 
 Mexico, particularly after the deaths of the environmental activists Homero Gómez and Raúl Hernández in early 2020. Please consider 
