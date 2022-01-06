@@ -64,15 +64,15 @@ The interactions between galaxies and their gas is often called "feedback" becau
 produces complex effects that slow down future growth. These interactions play an important role in shaping the history of our own galaxy, and
 they are often framed as a violent battle using words such as "strangulation" and "disruption". However, I have been inspired by [other astronomers](https://folklife.si.edu/magazine/intergalactic-pachamama-kichwa-cosmology-vs-western-astrophysics) to rethink my use of violent language to describe the Universe, especially with respect to the processes that brought our Galaxy into being. One of the questions Chente and I discussed was *what would it mean to see our own cosmic history as a dance rather than a war?* 
 
-In conversation with Chente's family, we have decided to name the unique galaxy describe above 'Mariposa' in his memory  of Vicente and in honor of the ways that he shaped my perspective as a scientist and our broader F&M community.
-  
+<!-- In conversation with Chente's family, we have decided to name the unique galaxy describe above 'Mariposa' in his memory  of Vicente and in honor of the ways that he shaped and our F&M community and my own perspective as a scientist.
+   -->
 After Chente's death, many F&M community members and I were able to meet with his family and share our memories of his college years. In those
 conversations, the Brambila family and I talked about the connections between Chente's study of history and ancestry through the lens of 
 dance and my own studies through the tools of astronomy. Through those conversations, we decided to name the unique galaxy described above *Mariposa* 
 in memory of Chente and in gratitude for the way he helped shaped my own perspective on galaxy formation. The wing-like shape of Mariposa evokes 
 Chente's many dances with his Monarch butterfly wings, providing a reminder of the artistry he shared and of the power of dance to re-imagine our 
 relationship to our ancestors--both on Earth and in the cosmos beyond. In this framing, the slow growth of galaxies through feedback interactions is not
-a matter of domination or of death; it is more like the rhythm of a drum that keeps extragalactic evolution precisely on time.
+a matter of domination or of death; it is more like the rhythm of a drum that keeps galactic evolution precisely on time.
 
 # Chente's Memory
 
@@ -82,7 +82,17 @@ A video including clips from many of Chente's dance performances at F&M. Credit:
 Chente's legacy lives on in Los Angeles and Lancaster. Many of Chente's 
 friends and community members contributed to a [tribute page](https://www.kudoboard.com/boards/1Fg8RTXh), and the 
 [Vicente Brambila Visual & Performing Arts (VAPA) Scholarship](https://www.amuanimo.org/studentscholarships) is now awarded to a student at 
-a California Green Dot High School who intends to pursue an education in visual and performing arts after high school.
+a California Green Dot High School who intends to pursue an education in visual and performing arts after high school. An Eastern Redbud tree has also been planted on F&M's campus in his memory near the hall where he used to perform.
+
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+<img src="../images/vicente-tree-350.jpeg" width="350"><img src="../images/vicente-plaque-350.png" width="350">
+<br>
+An Eastern Redbud tree planted on the F&M campus with a plaque in honor of Vicente.</div>
+
+<img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="../images/vicente-wings-rilla-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
+<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca), costume design by Joshua Arroyo.</font>
+</div>
+
 
 In the final year of his life, Chente became very interested in the ecological protection of monarch butterfly habitats in 
 Mexico, particularly after the deaths of the environmental activists Homero Gómez and Raúl Hernández in early 2020. Please consider 
