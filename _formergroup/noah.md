@@ -1,6 +1,6 @@
 ---
 title: "Noah Lamb"
-excerpt: "Lyman-alpha halos with image stacking<br/><img src='/images/500x300.png'>"
+excerpt: "Lyman-alpha halos with image stacking"
 collection: group
 ---
 
