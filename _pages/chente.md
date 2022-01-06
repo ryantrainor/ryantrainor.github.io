@@ -19,7 +19,7 @@ major in Dance and Government. As a student at F&M, Chente was active in student
 as [Mi Gente Latina](https://www.fandm.edu/campus-life/clubs/mi-gente-latina), [IMPACT](https://www.fandm.edu/campus-life/clubs/i-m-p-a-c-t), and [SAGA](https://www.fandm.edu/campus-life/clubs/lgbta). He worked as a researcher with F&M's Global Barometer of 
 Gay Rights, and he was known throughout campus for his award-winning dancing and choreography as
 well as his activitism for justice. Tragically, Chente was killed in a car accident less than a year after his graduation. He is missed by his family in
-LA, by his partner Joshua, and by many others in both Pennsylvania and California.
+LA, by his boyfriend and partner Joshua, and by many others in both Pennsylvania and California.
 
 <!-- &nbsp; -->
 
@@ -57,7 +57,7 @@ interactions between galaxies and their surrounding gas.
 
 <div style="text-align: center;">
 <img src="../images/mariposa-annotated-crop-310.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours" style="border:2px solid white" width=386><img src="../images/vicente-wings-rilla-310.jpeg" alt='Chente holding his wings out to the side in a similar shape to Mariposa' style="border:2px solid white" width=310><br>
-<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca).</font>
+<font style="line-height: 0.3em; font-size: 0.8em; font-style: italic;">Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Chente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca), costume design by Joshua Arroyo.</font>
 </div>
 
 The interactions between galaxies and their gas is often called "feedback" because the growth of stars or supermassive black holes in the galaxy
