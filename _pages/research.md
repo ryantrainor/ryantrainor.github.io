@@ -135,7 +135,7 @@ the physical properties of these objects.
 
 ## Instrumentation
 
-<img src="https://crosstrainor.github.io/images/mosfire-logo.jpeg">
+<img src="../images/mosfire-logo.jpeg">
 
   As a member of the MOSFIRE
 instrument team, I helped
