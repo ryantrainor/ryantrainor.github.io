@@ -1,6 +1,7 @@
 ---
 title: "Rebecca McClain<br/>Ionization in the Circumgalactic Medium of Mariposa<br/><img src='/images/becca-profile.png' alt='Becca McClain'>"
 <!-- excerpt: "Ionization in the Circumgalactic Medium of Mariposa<br/>[<img src='/images/becca-profile.png' alt='Becca McClain'>](becca/)" -->
+excerpt: ""
 collection: group
 ---
 
