@@ -1,5 +1,5 @@
 ---
-title: "Noah Lamb"
+title: "Noah Lamb '19"
 excerpt: "Lyman-alpha halos with image stacking"
 collection: group
 ---
