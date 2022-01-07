@@ -260,6 +260,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _formergroup
+  - scope:
+      path: ""
+      type: formergroup
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
