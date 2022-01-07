@@ -1,6 +1,6 @@
 ---
 title: "Ye (Issac) Lin"
-excerpt: "Metallicities of High-z Dwarf Galaxies<br/><img src='/images/issac-profile.png' alt='Issac Lin'>"
+excerpt: "Metallicities of High-z Dwarf Galaxies<br/>[<img src='/images/issac-profile.png' alt='Issac Lin'>](issac/)"
 collection: group
 ---
 
