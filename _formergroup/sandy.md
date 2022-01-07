@@ -1,5 +1,5 @@
 ---
-title: "Sandra Chilson '19"
+title: "Sandra Chilson '20"
 excerpt: "Quasar proximity effects on spectroscopic galaxy properties"
 collection: formergroup
 ---
