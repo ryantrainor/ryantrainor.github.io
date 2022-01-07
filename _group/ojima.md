@@ -1,6 +1,6 @@
 ---
 title: "Ojima Abraham"
-excerpt: "Software for Faint-Object Stacking<br/><img src='/images/ojima-profile.png' alt='Ojima Abraham'>"
+excerpt: "Software for Faint-Object Stacking<br/>[<img src='/images/ojima-profile.png' alt='Ojima Abraham'>](ojima/)"
 collection: group
 ---
 
