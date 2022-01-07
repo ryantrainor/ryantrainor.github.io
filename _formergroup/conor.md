@@ -1,5 +1,5 @@
 ---
-title: "Conor Larison '20"
+title: "Conor Larison '21"
 excerpt: "Galaxy morphologies from HST/WFC3"
 collection: formergroup
 ---
