@@ -20,7 +20,7 @@ major in Dance and Government. As a student at F&M, Vicente was active in studen
 as [Mi Gente Latina](https://www.fandm.edu/campus-life/clubs/mi-gente-latina), [IMPACT](https://www.fandm.edu/campus-life/clubs/i-m-p-a-c-t), and [SAGA](https://www.fandm.edu/campus-life/clubs/lgbta). He worked as a researcher with F&M's Global Barometer of 
 Gay Rights, and he was known throughout campus for his award-winning dancing and choreography as
 well as his activitism for justice. Tragically, Vicente was killed in a car accident less than a year after his graduation. He is missed by his family in
-LA, by his boyfriend and partner Joshua, and by many others in both Pennsylvania and California.
+LA, by his boyfriend and creative partner Joshua, and by many others in both Pennsylvania and California.
 
 This page is a celebration of Chente's life and the way he helped change the way I think about galaxy formation.
 
