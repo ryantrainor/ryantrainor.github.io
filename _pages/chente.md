@@ -22,6 +22,8 @@ Gay Rights, and he was known throughout campus for his award-winning dancing and
 well as his activitism for justice. Tragically, Vicente was killed in a car accident less than a year after his graduation. He is missed by his family in
 LA, by his boyfriend and partner Joshua, and by many others in both Pennsylvania and California.
 
+This page is a celebration of Chente's life and the way he helped change the way I think about galaxy formation.
+
 <!-- &nbsp; -->
 
 # Dance, Justice, and History
