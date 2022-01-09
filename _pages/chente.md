@@ -26,7 +26,7 @@ This page is a celebration of Chente's life and the way he helped change the way
 
 <!-- &nbsp; -->
 
-# Dance, Justice, and History
+# Dance, History, and Justice
 
 I had the privilege to see Chente perform many times, and we shared several conversations while he was enrolled in an 
 astronomy class called *Changing Concepts of the Universe* that met down the hall from my office. We spoke and exchanged 
