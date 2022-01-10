@@ -22,7 +22,7 @@ Gay Rights, and he was known throughout campus for his award-winning dancing and
 well as his activitism for justice. Tragically, Vicente was killed in a car accident less than a year after his graduation. He is missed by his family in
 LA, by his boyfriend and creative partner Joshua, and by many others in both Pennsylvania and California.
 
-This page is a celebration of Chente's life, his connection to a special galaxy, and how he helped change the way I think about my research in galaxy formation.
+*This page is a celebration of Chente's life, how he helped change the way I think about my research in galaxy formation, and his connection to a special galaxy we now call Mariposa in his honor.*
 
 <!-- &nbsp; -->
 
