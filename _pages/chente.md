@@ -31,8 +31,7 @@ This page is a celebration of Chente's life and the way he helped change the way
 I had the privilege to see Chente perform many times, and we shared several conversations while he was enrolled in an 
 astronomy class called *Changing Concepts of the Universe* that met down the hall from my office. We spoke and exchanged 
 occasional emails about about astronomy, social justice, and understanding ourselves and our world through studying the past. 
-One of the last messages I exchanged with Vicente occurred soon after his graduation in May 2021.
-His last email to me from his school account included the following words:
+In May 2021 I sent him an email congratulating him on his graduation, and his reply back to me (the last email I received from his school account) included the following:
 
 *Your email inspires me to continue dancing! Dancing is my political message. Existing is political. Movement transforms the roots of action. Dancing is liberating. It is also ephemeral in its frame of movement.*
 
