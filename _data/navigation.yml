@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Group"
+    url: /group/    
+    
 #  - title: "Portfolio"
 #    url: /portfolio/
         
