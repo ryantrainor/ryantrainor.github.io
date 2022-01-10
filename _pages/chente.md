@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Vicente ''Chente'' Brambila" & Mariposa
+title: "Vicente ''Chente'' Brambila & Mariposa"
 permalink: /chente/
 author_profile: true
 ---
