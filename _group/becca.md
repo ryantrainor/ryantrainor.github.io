@@ -1,5 +1,5 @@
 ---
-title: "Rebecca McClain:<br/><span style='font-size:0.8em'>Ionization in the Circumgalactic Medium of Mariposa</span><span style='font-size:0.4em'>Ionization in the Circumgalactic Medium of Mariposa</span><br/><br/></span><img src='/images/becca-profile.png' alt='Becca McClain / an diagram showing gas ionization'>"
+title: "Rebecca McClain:<br/><span style='font-size:0.8em'>Ionization in the Circumgalactic Medium of Mariposa</span><span style='font-size:0.4em'><br/><br/></span><img src='/images/becca-profile.png' alt='Becca McClain / an diagram showing gas ionization'>"
 excerpt: ""
 collection: group
 ---
