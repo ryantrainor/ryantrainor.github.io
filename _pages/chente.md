@@ -64,7 +64,7 @@ interactions between galaxies and their surrounding gas.
  -->
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/mariposa-vicente-panels-gap.png" alt="A diagram showing Mariposa, a galaxy with two wings displayed as colored contours / Vicente holding his wings out to the side in a similar shape to Mariposa"><br>
-Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Vicente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca), costume design by Joshua Arroyo.</font>
+Left: A Lyman-alpha image of Mariposa from the Keck/KCWI instrument, with annotations indicating emission by other species and the wing-like outflow/ionization geometry. Right: Vicente with his Monarch Butterfly wings. Photo credit Raluca Rilla (IG: @raluca), costume design by Joshua Arroyo.
 </div>
 
 
