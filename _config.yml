@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan Trainor / Astronomer @ F&M"
+title                    : "Ryan Trainor / Astronomer"
 title_separator          : "/"
 name                     : &name "Ryan Trainor"
 description              : &description "Asst. Prof. of Physics & Astronomy, Franklin & Marshall College"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ryan Trainor"
   avatar           : "rt-2021-square-500.jpeg"
-  bio              : "Astronomer @ F&M" # "Asst. Prof. Physics"
+  bio              : "F&M Astronomy" # "Asst. Prof. Physics"
   location         : "Lancaster, PA"
   employer         : "Franklin & Marshall"
   employerurl      : "https://www.fandm.edu/physics"
