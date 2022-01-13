@@ -34,6 +34,9 @@ redirect_from:
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 ## Contact
+
+See the sidebar on the left for the many ways to contact me online. To send me a note the old-fashioned way, please use the address below or find me in the Hackman Physical Science Laboratories on the F&M Campus.
+
 Physics & Astronomy Department<br>
 Franklin & Marshall College<br>
 415 Harrisburg Pike<br>
