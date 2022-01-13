@@ -35,7 +35,7 @@ You can find all my published work on the <a href="https://ui.adsabs.harvard.edu
 
 ## Contact
 
-See the sidebar on the left for the many ways to contact me online. To send me a note the old-fashioned way, please use the address below or find me in the Hackman Physical Science Laboratories on the F&M Campus.
+See the sidebar on the left for the many ways to contact me online. To send me a note the old-fashioned way, please use the address below or find me in the Hackman Physical Science Laboratories on the F&M campus.
 
 Physics & Astronomy Department<br>
 Franklin & Marshall College<br>
