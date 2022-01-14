@@ -1,6 +1,6 @@
 ---
 title: "Christopher Chapman '21"
-excerpt: "Quasar proximity effects on spectroscopic galaxy properties"
+excerpt: "Measuring starlight in stacked Lyman-alpha emitters"
 collection: formergroup
 ---
 
