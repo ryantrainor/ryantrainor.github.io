@@ -19,7 +19,7 @@ Meet some of the members of our galaxy formation research group here at F&M! Cli
 
 ## Former Group Members
 
-Below are some of our former group members who are now doing other cool things in astronomy! This section of the site is still under construction, so come back again to see more profiles and project descriptions.
+Below are some of our former group members who are now doing other cool things in or out of astronomy! This section of the site is still under construction, so come back again to see more profiles and project descriptions.
 
 
 {% for post in site.formergroup %}
