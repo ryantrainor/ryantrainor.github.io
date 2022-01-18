@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+<!-- <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/subaru-kecks-wide-600.jpg" width="600">
 </div>
-
+ -->
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/subaru-kecks-wide-600.jpg" width="600" alt="Three large telescopes on top of a red-brown mountain above the clouds.">
 <br>
