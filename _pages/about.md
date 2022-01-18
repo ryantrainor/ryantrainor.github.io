@@ -12,6 +12,13 @@ redirect_from:
 <img src="../images/subaru-kecks-wide-600.jpg" width="600">
 </div>
 
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+<img src="../images/subaru-kecks-wide-600.jpg" width="600" alt="Three large telescopes on top of a red-brown mountain above the clouds.">
+<br>
+The Subaru Observatory and W. M. Keck Observatory at dusk. Photo by Ryan Trainor.</div>
+
+
+
 I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.
 
 My research is centered on the evolution of galaxies in the early Universe. In particular, I seek to understand
