@@ -14,8 +14,8 @@ redirect_from:
  -->
 <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/subaru-kecks-wide-600.jpg" width="600" alt="Three large telescopes on top of a red-brown mountain above the clouds.">
-<\br>
-The Subaru and W. M. Keck Observatories at dusk. Photo by Ryan Trainor.</div><\p>
+<br\>
+The Subaru and W. M. Keck Observatories at dusk. Photo by Ryan Trainor.</div><p\>
 
 
 
