@@ -19,7 +19,7 @@ The Subaru and W. M. Keck Observatories at dusk. Photo by Ryan Trainor.</div></p
 
 
 
-I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.
+Hi! I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.
 
 My research is centered on the evolution of galaxies in the early Universe. In particular, I seek to understand
 "feedback" in galaxy formation: how the lives and
