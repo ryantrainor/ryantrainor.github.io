@@ -36,8 +36,8 @@ In May 2020 I sent him an email congratulating him on his graduation, and his re
 *Your email inspires me to continue dancing! Dancing is my political message. Existing is political. Movement transforms the roots of action. Dancing is liberating. It is also ephemeral in its frame of movement.*
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647135818?h=42940e60d2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-<!-- <sub><i>A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</i></sub> -->
-<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">A video titled "La Batalla" originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed in the preceding month. Credit: Vicente Brambila.</div>
+<!-- <sub><i>Rehearsal footage of "La Batalla," a work-in-progress of Vicente's choreography for the F&M Dance Company Spring Dance Concert 2020. Originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed the preceding month. Credit: Vicente Brambila.</i></sub> -->
+<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">Rehearsal footage of "La Batalla," a work-in-progress of Vicente's choreography for the F&M Dance Company Spring Dance Concert 2020. Originally shared by Vicente in February 2020 in honor of the Monarch Butterfly Human Rights Activists killed the preceding month. Credit: Vicente Brambila.</div>
 
 Chente often used dance to explore themes of justice. He was likewise interested in 
 using dance to connect with his ancestors, particularly those indigenous people of the lands of modern-day Mexico whose stories had been
