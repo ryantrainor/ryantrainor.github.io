@@ -16,8 +16,8 @@ redirect_from:
 <img src="../images/subaru-kecks-wide-600.jpg" width="600" alt="Three large telescopes on top of a red-brown mountain above the clouds.">
 <br>
 The Subaru and W. M. Keck Observatories at dusk. Photo by Ryan Trainor.</div>
- -->
 <div>&nbsp;</div>
+ -->
 
 **Hi! I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.**
 
