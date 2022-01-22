@@ -12,14 +12,14 @@ redirect_from:
 <img src="../images/subaru-kecks-wide-600.jpg" width="600">
 </div>
  -->
-<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+<!-- <div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
 <img src="../images/subaru-kecks-wide-600.jpg" width="600" alt="Three large telescopes on top of a red-brown mountain above the clouds.">
 <br>
 The Subaru and W. M. Keck Observatories at dusk. Photo by Ryan Trainor.</div>
-
+ -->
 <div>&nbsp;</div>
 
-Hi! **I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.**
+**Hi! I'm an Assistant Professor of Physics and Astronomy at Franklin & Marshall College in Lancaster, PA.**
 
 My research is centered on the evolution of galaxies in the early Universe. In particular, I seek to understand
 "feedback" in galaxy formation: how the lives and
