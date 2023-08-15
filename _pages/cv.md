@@ -12,6 +12,15 @@ redirect_from:
 
 {% include base_path %}
 
+## Academic Positions
+* Franklin & Marshall College, Department of Physics & Astronomy
+  * Associate Professor (2023-present)
+  * Assistant Professor (2017-2023)
+* Johns Hopkins University, William H. Miller III Department of Physics and Astronomy
+  * Visiting Scientist (2021-present)
+* University of California Berkeley, Miller Institute for Basic Research in Science
+  * Miller Postdoctoral Fellow in Astronomy (2014-2017)
+    
 ## Education
 * Ph.D in Astrophysics, Caltech (defended 2014, conferred 2015)
 * M.S. in Astrophysics, Caltech (2010)
@@ -20,15 +29,6 @@ redirect_from:
 * B.S. in Physics, University of California, Irvine (2008)
   * Honors Thesis: Improving Galaxy Mass Estimates by Accounting for Binary Systems
   * Advisors: Manoj Kaplinghat & James Bullock
-
-## Academic Positions
-* Assistant Professor, Franklin & Marshall College (2017-present)
-  * Tenure-track faculty position in the F&M Physics & Astronomy Department
-  * Parental leave Fall 2019, junior faculty research leave Spring 2021
-* Visiting Scientist, Johns Hopkins University (2021-present)
-  * Remote visiting scientist position in the department of physics and astronomy
-* Postdoctoral Research Fellow, Miller Institute (2014-2017)
-  * Postdoctoral fellowship in astronomy funded by the interdisciplinary Miller Institute for Basic Research in Science at the University of California, Berkeley
 
 ## Publications
 You can find all my published work on the <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Trainor%2C%20Ryan%22%20year%3A2006-&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a> or <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
