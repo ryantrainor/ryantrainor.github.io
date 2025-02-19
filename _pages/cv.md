@@ -23,6 +23,11 @@ redirect_from:
 * University of California Berkeley, Miller Institute for Basic Research in Science
   * Miller Postdoctoral Fellow in Astronomy (2014-2017)
     
+## Honors & Awards
+* Fulbright US Scholar Award (2024-2025)
+* Cottrell Scholar Award (RCSA, 2022-2025)
+* Miller Fellowship (UC Berkeley, 2014-2017)
+
 ## Education
 * Ph.D in Astrophysics, Caltech (2015)
 * M.S. in Astrophysics, Caltech (2010)
