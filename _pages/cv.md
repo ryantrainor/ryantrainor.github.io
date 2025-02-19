@@ -18,11 +18,13 @@ redirect_from:
   * Assistant Professor (2017-2023)
 * Johns Hopkins University, William H. Miller III Department of Physics and Astronomy
   * Visiting Scientist (2021-present)
+* Universidad de Chile, Department of Physics & Astronomy
+  * Fulbright US Scholar (2024-2025)
 * University of California Berkeley, Miller Institute for Basic Research in Science
   * Miller Postdoctoral Fellow in Astronomy (2014-2017)
     
 ## Education
-* Ph.D in Astrophysics, Caltech (defended 2014, conferred 2015)
+* Ph.D in Astrophysics, Caltech (2015)
 * M.S. in Astrophysics, Caltech (2010)
   * Thesis: Faint Galaxies in the Mpc-scale Environments of Hyperluminous QSOs at 2<z<3
   * Advisor: Charles Steidel
