@@ -36,10 +36,7 @@ How can a black hole be bright? What on Earth (or rather, *not* on
 Earth) is a redshift? Find answers to these
 questions (and more!) on my [Research](research) page!
 
-I am also passionate about physics & astronomy teaching and outreach.
-I always enjoy speaking
-with students (and students-at-heart), so feel free to contact me using the links on the right side bar if you're looking
-for a visitor for your school.
+I am also passionate about connections between physics & astronomy and our world--what we can learn about ourselves from studying the Universe, and how social forces and our humanity shape the process of science as well. You can read about one particularly meaningful connection between my research and former F&M student Vicente "Chente" Brambila at [this page](chente) celebrating his life.
 
-I am originally from California, and I previously completed degrees and fellowships at [UC Irvine](https://www.physics.uci.edu/), [Caltech](http://www.astro.caltech.edu/), and [UC Berkeley](http://astro.berkeley.edu/). Zot Zot! When I'm not teaching or doing research in galaxy formation, I like to spend time with my kids, watch [baseball](https://twitter.com/Dodgers) or [soccer/football](https://twitter.com/LiverpoolFC) games, [tweet](https://twitter.com/crosstrainor), and [take photos](https://www.flickr.com/people/148328039@N08/) (often these activities are combined).
+Originally from California, and I completed my undergraduate degree in Physics at [UC Irvine](https://www.physics.uci.edu/) (Zot Zot!), my PhD in Astrophysics at Caltech, and a Miller Postdoctoral Felowship at [UC Berkeley](http://astro.berkeley.edu/) before moving to F&M.  When I'm not teaching or doing research in galaxy formation, I like to spend time with my kids, watch [baseball](https://twitter.com/Dodgers) or [soccer/football](https://twitter.com/LiverpoolFC) games, [~~tweet~ skeet(?)](https://bsky.app/profile/crosstrainor.bsky.social), and [take photos](https://www.flickr.com/people/148328039@N08/).
 
