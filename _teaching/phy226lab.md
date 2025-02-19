@@ -8,9 +8,9 @@ semesters: "S23, S24"
 location: "Lancaster, PA"
 ---
 
-<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
-[<img src="../images/PHY226_ENIAC_Wescoff_Jennings.jpg" alt='Wescoff and Jennings with the ENIAC computer.'>](https://xkcd.com/2240/)
-<br>Marlyn Wescoff and Jean Jennings Wescoff programming the ENIAC computer. Image copyright Corbis / Getty Images.</div>
+<!--<div style="line-height: 1.5em; font-size: 0.8em; font-style: italic;">
+[<img src="../images/PHY226_ENIAC_Wescoff_Jennings.jpg" alt='Wescoff and Jennings with the ENIAC computer.'>](https://xkcd.com/2240/) 
+<br>Marlyn Wescoff and Jean Jennings Wescoff programming the ENIAC computer. Image copyright Corbis / Getty Images.</div> -->
 
 
 In the computational physics lab for PHY226, we develop tools to solve
