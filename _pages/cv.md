@@ -18,8 +18,8 @@ redirect_from:
   * Assistant Professor (2017-2023)
 * Johns Hopkins University, William H. Miller III Department of Physics and Astronomy
   * Visiting Scientist (2021-present)
-* Universidad de Chile, Department of Physics & Astronomy
-  * Fulbright US Scholar (2024-2025)
+* Universidad de Chile, Department of Astronomy
+  * Fulbright US Scholar, Astronomy & Data Science (2024-2025)
 * University of California Berkeley, Miller Institute for Basic Research in Science
   * Miller Postdoctoral Fellow in Astronomy (2014-2017)
     
