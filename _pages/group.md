@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-![Members of our group visit the W. M. Keck Observatory](../images/trainor-group-700.jpg)
+<!-- ![Members of our group visit the W. M. Keck Observatory](../images/trainor-group-700.jpg) -->
+
+![Members of our group attend a talk in 2022 with my first astronomy project advisor](../images/trainor-ghez-group-750.jpg)
+
 
 Meet some of the members of our galaxy formation research group here at F&M! Click the student names or images for more information on their projects.
 
